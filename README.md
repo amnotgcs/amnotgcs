@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 🤔 I’m looking for someone can code with me in spare time.
 <!--
 **amnotgcs/amnotgcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
